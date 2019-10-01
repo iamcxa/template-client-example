@@ -1,8 +1,8 @@
 # template-for-poc
 
-<!-- description -->
+<!-- descriptions, main goal to deal with -->
 
-A example client template.
+A example client template, a POC of integrate A and B.
 
 ## Releated Repo
 
@@ -26,6 +26,16 @@ $ yarn run android
 # Start
 $ yarn start
 ```
+
+## Limits
+
+<!-- limitation of this POC -->
+
+## Notes
+
+<!-- anything should be note-->
+
+- Shoule notice the...
 
 ## References
 
